@@ -1,8 +1,4 @@
 <p align="center">
-  <img src="images/banner.png" width="100%"/>
-</p>
-
-<p align="center">
   <img src="images/b8-logo.png" width="80"/>
 </p>
 
