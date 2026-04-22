@@ -1,0 +1,13 @@
+{
+  "Version": "2012-10-17",
+  "Statement": [
+    {
+      "Sid": "AllowLabUserAssumeRole",
+      "Effect": "Allow",
+      "Principal": {
+        "AWS": "arn:aws:iam::<ACCOUNT_ID>:user/lab-user"
+      },
+      "Action": "sts:AssumeRole"
+    }
+  ]
+}
